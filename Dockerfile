@@ -1,4 +1,4 @@
-FROM node:9.8.0-alpine
+FROM node:8-alpine
 
 ENV FFMPEG_VERSION=3.3.5
 ENV EXIFTOOL_VERSION=10.20
